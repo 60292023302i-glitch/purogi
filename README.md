@@ -53,7 +53,7 @@
       const pass = document.getElementById("password").value;
 
       if (pass === "1122") {
-        // ★ ここを「公開用URL」にする
+       https://sites.google.com/d/16MZ6zpuLuNSCkhpKjl60iIiz7j5ZfiTd/p/1PuH5NHkmC2d29A_sNyrLUixanNgtPEDW/edit
         window.location.href = "https://sites.google.com/view/yuta-room/趣味";
       } else {
         document.getElementById("error").textContent =
