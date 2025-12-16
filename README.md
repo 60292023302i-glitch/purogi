@@ -55,7 +55,7 @@
       const pw = document.getElementById("pw").value;
 
       if (pw === "1122") {
-        // ★ 今回はこのURLでOK ★
+        https://sites.google.com/g.miyazaki-c.ed.jp/411/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%9B%B2
         location.href = "https://sites.google.com/g.miyazaki-c.ed.jp/411/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%9B%B2";
       } else {
         document.getElementById("msg").textContent =
